@@ -1,0 +1,20 @@
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.Form1.resources
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.frmLogin.resources
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.frmMaster.resources
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.frmProduct.resources
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.frmUsers.resources
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.Resources.resources
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.vbproj.GenerateResource.Cache
+E:\The Kerb\TK2010\TK2010\TK2010\bin\Debug\TK2010.exe
+E:\The Kerb\TK2010\TK2010\TK2010\bin\Debug\TK2010.pdb
+E:\The Kerb\TK2010\TK2010\TK2010\bin\Debug\TK2010.xml
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.exe
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.xml
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.pdb
+E:\The Kerb\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.frmOrders.resources
+D:\TK2010\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.exe
+D:\TK2010\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.xml
+D:\TK2010\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.pdb
+D:\งาน\RMUTI\DB\TK2010\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.exe
+D:\งาน\RMUTI\DB\TK2010\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.xml
+D:\งาน\RMUTI\DB\TK2010\TK2010\TK2010\TK2010\obj\x86\Debug\TK2010.pdb
